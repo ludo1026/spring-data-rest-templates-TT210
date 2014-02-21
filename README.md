@@ -21,4 +21,3 @@ and choose the bundle "spring-data-rest-templates-TT210"
 Tutorial
 -------------
 [How to use it !](doc/HOWTO.md)
-
